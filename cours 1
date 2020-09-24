@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<title>Onglet mon gars</title>
+		<body>
+			<section>Première réflexion</section>
+				<h1>9 raisons que le codage c'est chiant</h1>
+				<h2>9 raisons que le codage c'est chiant</h2>
+				<h3>9 raisons que le codage c'est vraiment chiant</h3>
+				<h6>(non mais vraiment)</h6>
+					<ol>
+						<li>Ça peut se casser en 3 secondes</li>
+						<li>C'est long et fastidieux</li>
+						<li>La théorie est sympa mais la pratique est horrible</li>
+						<li>Personne autour de toi ne comprend ce que tu fais</li>
+						<li>Ça ne te donne aucun charisme de le maitriser</li>
+						<li>Sans électricité t'es foutu</li>
+						<li>Les gens pour qui tu bosses sont insupportables</li>
+						<li>Tuez-moi svp j'en peux plus je suis bloqué sur ce code depuis trois jours j'ai tout tenté mais ça marche pas putaaaaaaaain</li>
+						<li>Y a pas de 9 parce que t'es qu'une merde</li>
+					</ol>
+			<img src="wojak.jpg">
+		</body>
+	</head>
+</html>
